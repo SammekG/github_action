@@ -8,14 +8,6 @@ function App() {
           {process.env.REACT_APP_WELCOME_TEXT || "Github Actions Tutorial"} - By
           Sammek Gandhi
         </p>
-        <a
-          className="App-link"
-          href="https://youtube.com/@DevOpsPro"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn DevOps
-        </a>
       </header>
     </div>
   );
